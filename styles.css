@@ -1,0 +1,49 @@
+
+body{ 
+    background-image: url(images/fresno-1932212_640.jpg)
+     
+
+}
+
+button{
+    color:#0B15EB;
+    background: black;
+}
+
+.voice{
+    font-family: 'Lacquer', sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    
+    color: #FED1FF;
+}
+
+    
+h3
+{
+    font-size: 44px;
+    color: #C5E8BE;
+
+}
+.pic2{
+    width: 400px;
+    height: 400px;
+
+}
+.pic1{
+    width: 400px;
+    height: 400px;
+    background-color: gray;
+    margin: 24px;
+    float: right;
+}
+.write
+{
+    font-family: 'Lacquer', sans-serif;
+    font-family: 'Pompiere', cursive;
+    font-family: 'Arbutus Slab', serif;
+  font-size: 16px;
+  font-weight: bolder  
+}
+
+    
