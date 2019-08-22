@@ -9,14 +9,36 @@ h1{ font-size: 80px;
 
 
 }
-button{
+/* button{
     border-radius: 15px;
     color:#0B15EB;
     background:#C5E8BE;
     font-size: 28px;
     
-}
+} */
 
+.a{
+    color: hotpink;
+    background-color:black;
+    padding: 20px;
+    border-radius: 12px;
+  }
+
+  .b{
+    color: hotpink;
+    background-color:black;
+    padding: 20px;
+    border-radius: 12px;
+  }
+
+  .c{
+    color: hotpink;
+    background-color:black;
+    padding: 20px;
+    border-radius: 12px;
+  }
+  
+  
 .voice{
     font-family: 'Lacquer', sans-serif;
     font-size: 40px;
