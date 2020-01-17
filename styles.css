@@ -1,10 +1,17 @@
 
-body{ 
-    background-image: url(images/fresno-1932212_640.jpg);
+/* body{ 
+    background-image: url(images/backy.jpg);
     
 
+} */
+
+.top {
+    background-image: url(images/backy.jpg);
 }
 
+.mid    {
+        background: #000000 url(images/nubackground.jpg);
+}
 .middle {
         background: #000000 url(images/background2.jpg) 100px 100px fixed;
 }
